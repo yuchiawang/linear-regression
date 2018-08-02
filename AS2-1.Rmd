@@ -1,6 +1,6 @@
 ---
 title: "AS2-1 Climate Change"
-author: "<name> <student ID>"
+author: "<sherry> <student ID>"
 output: html_notebook
 ---
 
